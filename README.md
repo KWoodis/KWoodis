@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1>Welcome to my page! My name is Katelyn (or Kat for short).</h1>
 
-<!--
-**KWoodis/KWoodis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> I currently hold my associate's degree in Computer Science but I'm continuing my education to get my bachelor's in Computer Science with a concentration in Software Engineering.</h2>
 
-Here are some ideas to get you started:
+<h2>Here are the projects that I've invested the most time and effort so far</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Data A Running Log GUI using Java with data storage/sorting capabilities in a listview</b>
+  - [Running Log](https://github.com/KWoodis/RunningLog.git)
+- <b>Interactive program with query capabilities with a restricted Excel database file</b>
+  - [Endangered Species database restricted](https://github.com/KWoodis/EndangeredSpeciesLimDataBase.git) <b>
+
+
+<h2> Technical Skills include: </h2>
+
+- <b>Python</b>
+
+- <b>Java</b>
+
+- <b>HTML5 and CSS3</b>
+
+- <b>SQL familiarity</b>
+
+- <b>Git familiarity</b>
+
+- <b>JS familiarity</b>
+
+
+
+
+
+
